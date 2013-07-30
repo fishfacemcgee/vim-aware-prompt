@@ -1,10 +1,10 @@
 # Vim Aware Prompt
 
-The Shell command in Vim is great, but sometimes it can be hard to tell if you are in a Vim shell or a regular shell.
+The Shell[1] command in Vim is great, but sometimes it can be hard to tell if you are in a Vim shell or a regular shell.
 
 This bash script will add an indicator to your terminal prompt when you are in a Vim shell.
 
-Based on jimeh/git-aware-prompt[1]
+Based on jimeh/git-aware-prompt[2]
 
 ## Installation
 
@@ -47,4 +47,5 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[1]: http://github.com/jimeh/git-aware-prompt
+[1]: http://vimdoc.sourceforge.net/htmldoc/usr_21.html#21.2
+[2]: http://github.com/jimeh/git-aware-prompt
